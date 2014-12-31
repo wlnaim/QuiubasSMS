@@ -1,0 +1,9 @@
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\bin\Debug\QuiubasSMSTest.exe.config
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\bin\Debug\QuiubasSMSTest.exe
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\bin\Debug\QuiubasSMSTest.pdb
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\obj\Debug\QuiubasSMSTest.csprojResolveAssemblyReference.cache
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\obj\Debug\QuiubasSMSTest.Form1.resources
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\obj\Debug\QuiubasSMSTest.Properties.Resources.resources
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\obj\Debug\QuiubasSMSTest.csproj.GenerateResource.Cache
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\obj\Debug\QuiubasSMSTest.exe
+c:\SVN\QuiubasSMSTest\QuiubasSMSTest\obj\Debug\QuiubasSMSTest.pdb
